@@ -28,12 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            button1 = new Button();
+            SuspendLayout();
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.MediumTurquoise;
+            button1.Font = new Font("Tahoma", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(559, 334);
+            button1.Name = "button1";
+            button1.Size = new Size(198, 84);
+            button1.TabIndex = 0;
+            button1.Text = "VALE BERNAL";
+            button1.UseVisualStyleBackColor = false;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(button1);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Button button1;
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\Desktop\\PRUEBA\\PRUEBA\\PRUEBA.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\PRUEBA1\\PRUEBA\\PRUEBA.csproj",
       "projectName": "PRUEBA",
-      "projectPath": "C:\\Users\\ferna\\Desktop\\PRUEBA\\PRUEBA\\PRUEBA.csproj",
+      "projectPath": "C:\\Users\\ferna\\PRUEBA1\\PRUEBA\\PRUEBA.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\Desktop\\PRUEBA\\PRUEBA\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\PRUEBA1\\PRUEBA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",

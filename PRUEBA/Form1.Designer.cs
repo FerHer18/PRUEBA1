@@ -38,9 +38,10 @@
             label1.Font = new Font("Stencil", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label1.Location = new Point(280, 180);
             label1.Name = "label1";
-            label1.Size = new Size(195, 29);
+            label1.Size = new Size(219, 29);
             label1.TabIndex = 0;
-            label1.Text = "HOLA, SOY ROSY";
+            label1.Text = "HOLA, SOY ROSY...";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 

@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Valeria Bernal\\PRUEBA1\\",
+  "WorkspaceRootPath": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|c:\\users\\valeria bernal\\prueba1\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|c:\\users\\vanes\\desktop\\aaf\\prueba1\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|solutionrelative:prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|c:\\users\\vanes\\desktop\\aaf\\prueba1\\prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|solutionrelative:prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|c:\\users\\vanes\\desktop\\aaf\\prueba1\\prueba\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|solutionrelative:prueba\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|c:\\users\\vanes\\desktop\\aaf\\prueba1\\prueba\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99588E00-A853-49DF-9ABA-5A5481262319}|PRUEBA\\PRUEBA.csproj|solutionrelative:prueba\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Valeria Bernal\\PRUEBA1\\PRUEBA\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form1.cs",
               "RelativeDocumentMoniker": "PRUEBA\\Form1.cs",
-              "ToolTip": "C:\\Users\\Valeria Bernal\\PRUEBA1\\PRUEBA\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PRUEBA\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form1.cs",
+              "RelativeToolTip": "PRUEBA\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:57:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form2.cs",
+              "RelativeDocumentMoniker": "PRUEBA\\Form2.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form2.cs",
+              "RelativeToolTip": "PRUEBA\\Form2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:56:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form2.cs",
+              "RelativeDocumentMoniker": "PRUEBA\\Form2.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form2.cs [Design]",
+              "RelativeToolTip": "PRUEBA\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:56:06.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form1.cs",
+              "RelativeDocumentMoniker": "PRUEBA\\Form1.cs",
+              "ToolTip": "C:\\Users\\vanes\\Desktop\\aaf\\PRUEBA1\\PRUEBA\\Form1.cs [Design]",
+              "RelativeToolTip": "PRUEBA\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T01:43:39.429Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
